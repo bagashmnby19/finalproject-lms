@@ -317,21 +317,7 @@ Screenshot:
 
 ---
 
-### Screenshot 9 - Generated CSV Report
 
-Pengujian export laporan course ke dalam format CSV menggunakan Celery Task. Sistem berhasil membuat file report yang berisi data course dan jumlah enrollment.
-
-Perintah verifikasi:
-
-```bash
-cat generated/reports/course_report_1782128832.csv
-```
-
-Screenshot:
-
-![CSV Report](screenshoots/09-report-generated.png)
-
----
 
 ### Screenshot 10 - Flower Dashboard
 
